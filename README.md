@@ -31,7 +31,7 @@ AUT URL:  https://newsonicsargam.netlify.app/login.html
 Recommendations & Suggestions
 Based on the evaluation of Web Application, the following improvements are recommended:
 
-Confirmation Messages
+
 
 Password Visibility
 Issue: Users may have difficulty verifying their password inputs due to lack of visibility.
